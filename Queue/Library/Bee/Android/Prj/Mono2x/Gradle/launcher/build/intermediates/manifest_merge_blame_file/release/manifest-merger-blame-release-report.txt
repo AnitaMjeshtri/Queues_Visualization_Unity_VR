@@ -1,0 +1,279 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.AnitaMjeshtri_AmaraCela_Queue"
+4    android:installLocation="preferExternal"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="32" />
+10-->C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:106-134
+18
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-67
+19-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-64
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-79
+20-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:22-76
+21
+22    <uses-feature android:glEsVersion="0x00030000" />
+22-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:5-54
+22-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:19-51
+23    <uses-feature
+23-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:5-17:36
+24        android:name="android.hardware.vulkan.version"
+24-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:9-55
+25        android:required="false" />
+25-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:9-33
+26    <uses-feature
+26-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:5-20:36
+27        android:name="android.hardware.touchscreen"
+27-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:9-52
+28        android:required="false" />
+28-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:9-33
+29    <uses-feature
+29-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:5-23:36
+30        android:name="android.hardware.touchscreen.multitouch"
+30-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:9-63
+31        android:required="false" />
+31-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:9-33
+32    <uses-feature
+32-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:5-26:36
+33        android:name="android.hardware.touchscreen.multitouch.distinct"
+33-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-72
+34        android:required="false" />
+34-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:9-33
+35    <uses-feature
+35-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:5-30:31
+36        android:name="android.hardware.vr.headtracking"
+36-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-56
+37        android:required="true"
+37-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:9-32
+38        android:version="1" />
+38-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:9-28
+39
+40    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+40-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:11:5-79
+40-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:11:22-76
+41    <uses-permission android:name="com.android.vending.BILLING" />
+41-->[:billing-5.1.0:] C:\Users\User\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:10:5-67
+41-->[:billing-5.1.0:] C:\Users\User\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:10:22-64
+42    <!--
+43    This has been added to conform with requirement from Android 11 (API level 30) onwards
+44    (http://screen/9iGdBMRWDmVbRJ6), after getting confirmation in http://yaqs/995038231927980032#a1
+45    -->
+46    <queries>
+46-->[:billing-5.1.0:] C:\Users\User\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:16:5-20:15
+47        <intent>
+47-->[:billing-5.1.0:] C:\Users\User\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:17:9-19:18
+48            <action android:name="com.android.vending.billing.InAppBillingService.BIND" />
+48-->[:billing-5.1.0:] C:\Users\User\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:18:13-91
+48-->[:billing-5.1.0:] C:\Users\User\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:18:21-88
+49        </intent>
+50    </queries>
+51
+52    <application
+52-->C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:3-83
+53        android:extractNativeLibs="true"
+53-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:32:18-50
+54        android:icon="@mipmap/app_icon"
+54-->C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:49-80
+55        android:label="@string/app_name" >
+55-->C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:3:16-48
+56        <meta-data
+56-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:9-35:33
+57            android:name="unity.splash-mode"
+57-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:13-45
+58            android:value="0" />
+58-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-30
+59        <meta-data
+59-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:9-38:36
+60            android:name="unity.splash-enable"
+60-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:13-47
+61            android:value="True" />
+61-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-33
+62        <meta-data
+62-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:39:9-41:36
+63            android:name="unity.launch-fullscreen"
+63-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:40:13-51
+64            android:value="True" />
+64-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:41:13-33
+65        <meta-data
+65-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:42:9-44:37
+66            android:name="unity.allow-resizable-window"
+66-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:43:13-56
+67            android:value="False" />
+67-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:44:13-34
+68        <meta-data
+68-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:45:9-47:50
+69            android:name="notch.config"
+69-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:46:13-40
+70            android:value="portrait|landscape" />
+70-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:47:13-47
+71        <meta-data
+71-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:48:9-50:36
+72            android:name="unity.auto-report-fully-drawn"
+72-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:49:13-57
+73            android:value="true" />
+73-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:50:13-33
+74
+75        <activity
+75-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:52:9-78:20
+76            android:name="com.unity3d.player.UnityPlayerActivity"
+76-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:53:13-66
+77            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|uiMode"
+77-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:54:13-114
+78            android:exported="true"
+78-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:55:13-36
+79            android:hardwareAccelerated="false"
+79-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:56:13-48
+80            android:launchMode="singleTask"
+80-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:57:13-44
+81            android:resizeableActivity="false"
+81-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:58:13-47
+82            android:screenOrientation="landscape"
+82-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:59:13-50
+83            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+83-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:60:13-77
+84            <intent-filter>
+84-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:61:13-67:29
+85                <category android:name="android.intent.category.LAUNCHER" />
+85-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:17-77
+85-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:62:27-74
+86
+87                <action android:name="android.intent.action.MAIN" />
+87-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:64:17-69
+87-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:64:25-66
+88
+89                <category android:name="com.oculus.intent.category.VR" />
+89-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:17-74
+89-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:66:27-71
+90            </intent-filter>
+91
+92            <meta-data
+92-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:69:13-71:40
+93                android:name="unityplayer.UnityActivity"
+93-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:70:17-57
+94                android:value="true" />
+94-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:71:17-37
+95            <meta-data
+95-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:72:13-74:40
+96                android:name="notch_support"
+96-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:73:17-45
+97                android:value="true" />
+97-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:74:17-37
+98            <meta-data
+98-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:75:13-77:40
+99                android:name="com.oculus.vr.focusaware"
+99-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:76:17-56
+100                android:value="true" />
+100-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:77:17-37
+101        </activity>
+102
+103        <meta-data
+103-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:80:9-82:39
+104            android:name="com.samsung.android.vr.application.mode"
+104-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:81:13-67
+105            android:value="vr_only" />
+105-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:82:13-36
+106        <meta-data
+106-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:83:9-85:37
+107            android:name="com.unity.xr.oculus.LowOverheadMode"
+107-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:84:13-63
+108            android:value="false" />
+108-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:85:13-34
+109        <meta-data
+109-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:86:9-88:37
+110            android:name="com.unity.xr.oculus.LateLatching"
+110-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:87:13-60
+111            android:value="false" />
+111-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:88:13-34
+112        <meta-data
+112-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:89:9-91:37
+113            android:name="com.unity.xr.oculus.LateLatchingDebug"
+113-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:90:13-65
+114            android:value="false" />
+114-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:91:13-34
+115        <meta-data
+115-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:92:9-94:44
+116            android:name="com.oculus.supportedDevices"
+116-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:93:13-55
+117            android:value="quest|quest2" />
+117-->[:unityLibrary] C:\DSUnity\AnitaMjeshtri_AmaraCela_Queue\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\merged_manifest\release\AndroidManifest.xml:94:13-41
+118
+119        <activity
+119-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:14:9-18:74
+120            android:name="com.unity3d.services.ads.adunit.AdUnitActivity"
+120-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:15:13-74
+121            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+121-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:16:13-170
+122            android:hardwareAccelerated="true"
+122-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:17:13-47
+123            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+123-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:18:13-71
+124        <activity
+124-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:19:9-23:86
+125            android:name="com.unity3d.services.ads.adunit.AdUnitTransparentActivity"
+125-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:20:13-85
+126            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+126-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:21:13-170
+127            android:hardwareAccelerated="true"
+127-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:22:13-47
+128            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+128-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:23:13-83
+129        <activity
+129-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:24:9-28:86
+130            android:name="com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity"
+130-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:25:13-93
+131            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+131-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:26:13-170
+132            android:hardwareAccelerated="false"
+132-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:27:13-48
+133            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+133-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:28:13-83
+134        <activity
+134-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:29:9-33:74
+135            android:name="com.unity3d.services.ads.adunit.AdUnitSoftwareActivity"
+135-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:30:13-82
+136            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+136-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:31:13-170
+137            android:hardwareAccelerated="false"
+137-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:32:13-48
+138            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+138-->[:UnityAds:] C:\Users\User\.gradle\caches\transforms-3\adbf08521aa54dfca53a73706143af76\transformed\UnityAds\AndroidManifest.xml:33:13-71
+139
+140        <meta-data
+140-->[:billing-5.1.0:] C:\Users\User\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:23:9-25:37
+141            android:name="com.google.android.play.billingclient.version"
+141-->[:billing-5.1.0:] C:\Users\User\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:24:13-73
+142            android:value="5.1.0" />
+142-->[:billing-5.1.0:] C:\Users\User\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:25:13-34
+143
+144        <activity
+144-->[:billing-5.1.0:] C:\Users\User\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:27:9-31:75
+145            android:name="com.android.billingclient.api.ProxyBillingActivity"
+145-->[:billing-5.1.0:] C:\Users\User\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:28:13-78
+146            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+146-->[:billing-5.1.0:] C:\Users\User\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:29:13-96
+147            android:exported="false"
+147-->[:billing-5.1.0:] C:\Users\User\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:30:13-37
+148            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+148-->[:billing-5.1.0:] C:\Users\User\.gradle\caches\transforms-3\c28743ae4beba7e25593a8a754aa1c07\transformed\billing-5.1.0\AndroidManifest.xml:31:13-72
+149    </application>
+150
+151</manifest>
