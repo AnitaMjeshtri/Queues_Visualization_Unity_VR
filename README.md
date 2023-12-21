@@ -32,6 +32,6 @@ Manipulate the queue by adding elements to the rear or removing elements from th
 
 ## Some illustrating images of Queue from Unity
 <img width="747" alt="queue1" src="https://github.com/AnitaMjeshtri/Queues_Visualization_Unity_VR/assets/122668935/7607d93e-557b-4423-81b5-06703046d8a7">
-<img width="500" alt="queue2" src="https://github.com/AnitaMjeshtri/Queues_Visualization_Unity_VR/assets/122668935/d9625a19-6bab-4c93-91ea-2aa4f00a9359"> <img width="500" alt="queue4" src="https://github.com/AnitaMjeshtri/Queues_Visualization_Unity_VR/assets/122668935/338c01a3-7aee-4f45-98eb-e34852fa2611">
+<img width="450" alt="queue2" src="https://github.com/AnitaMjeshtri/Queues_Visualization_Unity_VR/assets/122668935/d9625a19-6bab-4c93-91ea-2aa4f00a9359"> <img width="450" alt="queue4" src="https://github.com/AnitaMjeshtri/Queues_Visualization_Unity_VR/assets/122668935/338c01a3-7aee-4f45-98eb-e34852fa2611">
 
 
